@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "scripts": {
+    "bootstrap": "lerna bootstrap",
     "start": "lerna run start",
     "build": "lerna run build",
     "bundle": "lerna run bundle",
