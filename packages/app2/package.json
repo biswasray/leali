@@ -1,0 +1,16 @@
+{
+  "name": "@leali/app2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing app2\"",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@leali/common": "1.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
