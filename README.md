@@ -8,6 +8,7 @@
 - Both accepting numeric query `a` and `b`.
 - `app1` return addition of `a` and `b` and check is result is even, returns an object of results.
 - `app2` return substraction of `a` and `b` and check is result is even, returns an object of results.
+- `app1` and `app2` behave like independent app, if one of them breaks it would not break all apps.
 
 ## Start
 
