@@ -12,5 +12,9 @@
 
 ## Start
 
+- Install deps `npm install`
 - Connect all packages `npm run bootstrap`.
 - Start app `npm start`.
+
+## Reference
+- [Lerna Official](https://lerna.js.org/docs/getting-started)
